@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # 03 - Deploy Azure Container Instances
 
 Resultado de la creación del Container Instance
@@ -36,3 +30,32 @@ Fin de la practica borrando el recurso
 
 ![04F-VirtualNetwork](Evidencia/04F-VirtualNetwork.png)
 
+# 05 - Create blob storage
+
+![05a-FinalResourceCreating](Evidencia/05a-FinalResourceCreating.png)
+
+![05b-TestStorageAccountCreated](Evidencia/05b-TestStorageAccountCreated.png)
+
+![05c-TestStorageAccountCreated](Evidencia/05c-TestStorageAccountCreated.png)
+
+![05d-EvidenceToTxtStorageInBlob](Evidencia/05d-EvidenceToTxtStorageInBlob.png)
+
+![05e-ReviewingContentOfTxtInsideBlobStorage](Evidencia/05e-ReviewingContentOfTxtInsideBlobStorage.png)
+
+![05f-MonitoringStorageAccount](Evidencia/05f-MonitoringStorageAccount.png)
+
+
+
+# 06 - Create a SQL database
+
+ 
+
+![06a-00](Evidencia/06a-00.png)
+
+![06b-00](Evidencia/06b-00.png)
+
+![06c-00](Evidencia/06c-00.png)
+
+![06d-00](Evidencia/06d-00.png)
+
+![06e-00](Evidencia/06e-00.png)

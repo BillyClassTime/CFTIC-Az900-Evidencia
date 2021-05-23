@@ -2,7 +2,7 @@
 
 | Práctica (7,5 horas) |                                                              |
 | -------------------- | ------------------------------------------------------------ |
-| Módulo 01: N/A       |                                                              |
+| Módulo 01:           | N/A                                                          |
 | Módulo 02:           | 01 - Crear una máquina virtual en el portal                  |
 |                      | 02 - Crear una aplicación web (10 minutos)                   |
 |                      | 03 - Implementar Azure Container Instances                   |
