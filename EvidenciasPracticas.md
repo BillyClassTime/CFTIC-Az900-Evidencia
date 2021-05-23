@@ -12,7 +12,7 @@ Resultado de la creación del Container Instance
 
 Resultado de ejecutar el contenedor de instacia
 
-![03-ContainerInstance](Evidencia/03a-ContainerInstance.png)
+![03-ContainerInstance](Evidencia/03A-ContainerInstance.png)
 
 Fin de la practica borrando el recurso
 
