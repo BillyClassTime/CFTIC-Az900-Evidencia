@@ -25,3 +25,12 @@
 |                      | 20 - Usar la calculadora de TCO de Azure (10 min)            |
 |                      | 21 - Calcular el Acuerdo de nivel de servicio compuesto (5 min) |
 | N/A                  | 22 - Abrir una solicitud de soporte técnico (5 min)          |
+
+### Para clonar este repositorio:
+
+```
+ git clone https://github.com/LuzTellez/CFTIC-Az900-Evidencia.git
+```
+
+> Nota: Deberá estar en una carpeta de trabajo local como C:\local
+
