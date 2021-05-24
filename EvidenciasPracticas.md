@@ -152,9 +152,41 @@ Fin de la practica borrando el recurso
 
 # 16 - Implement resource tagging
 
+![16c-00](Evidencia/16a-00.png)
 
+![16d-00](Evidencia/16b-00.png)
+
+![16f-00](Evidencia/16c-00.png)
+
+![16g-00](Evidencia/16d-00.png)
+
+![16h-00](Evidencia/16f-00.png)
+
+![16i-00](Evidencia/16g-00.png)
+
+![16a-00](Evidencia/16h-00.png)
+
+![16b-00](Evidencia/16i-00.png)
+
+![16j-00](Evidencia/16j-00.png)
 
 # 17 - Create an Azure Policy
+
+![17f-00](Evidencia/17a-00.png)
+
+![17g-00](Evidencia/17b-00.png)
+
+![17h-00](Evidencia/17c-00.png)
+
+![17a-00](Evidencia/17d-00.png)
+
+![17b-00](Evidencia/17e-00.png)
+
+![17c-00](Evidencia/17f-00.png)
+
+![17d-00](Evidencia/17g-00.png)
+
+![17e-00](Evidencia/17h-00.png)
 
 # 18 - Explore the Trust Center
 
