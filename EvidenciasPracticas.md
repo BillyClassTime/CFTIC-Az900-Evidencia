@@ -1,6 +1,20 @@
+
+
 # 01 - Create a virtual machine in the portal
 
+![01d-00](Evidencia/01a-00.png)
 
+![01e-00](Evidencia/01b-00.png)
+
+```
+Install-WindowsFeature -name Web-Server -IncludeManagementTools
+```
+
+![01a-00](Evidencia/01c-00.png)
+
+![01b-00](Evidencia/01d-00.png)
+
+![01c-00](Evidencia/01e-00.png)
 
 # 02 - Create a Web App
 
