@@ -1,3 +1,11 @@
+# 01 - Create a virtual machine in the portal
+
+
+
+# 02 - Create a Web App
+
+
+
 # 03 - Deploy Azure Container Instances
 
 Resultado de la creación del Container Instance
@@ -59,3 +67,87 @@ Fin de la practica borrando el recurso
 ![06d-00](Evidencia/06d-00.png)
 
 ![06e-00](Evidencia/06e-00.png)
+
+# 07 - Implement an Azure IoT Hub
+
+![07b-00](Evidencia/07a-00.png)
+
+![07c-00](Evidencia/07b-00.png)
+
+![07a-00](Evidencia/07c-00.png)
+
+
+
+# 08 - Implement Azure Functions
+
+
+
+# 09 - Create a VM with a Template
+
+
+
+# 10 - Create a VM with PowerShell
+
+
+
+
+
+![10b-00](Evidencia/10a-00.png)
+
+![10c-00](Evidencia/10b-00.png)
+
+![10d-00](Evidencia/10c-00.png)
+
+![10a-00](Evidencia/10d-00.png)
+
+# 11 - Create a VM with the CLI
+
+![10a-00](Evidencia/10a-00.png)
+
+![10b-00](Evidencia/10b-00.png)
+
+![10c-00](Evidencia/10c-00.png)
+
+![10d-00](Evidencia/10d-00.png)
+
+# 12 - Implement Azure Key Vault
+
+# 13 - Secure network traffic
+
+![13b-00](Evidencia/13a-00.png)
+
+![13c-00](Evidencia/13b-00.png)
+
+![13d-00](Evidencia/13c-00.png)
+
+![13a-00](Evidencia/13d-00.png)
+
+# 14 - Manage access with RBAC
+
+![14b-00](Evidencia/14a-00.png)
+
+![14a-00](Evidencia/14b-00.png)
+
+# 15 - Manage resource locks
+
+![15b-00](Evidencia/15a-00.png)
+
+![15c-00](Evidencia/15b-00.png)
+
+![15a-00](Evidencia/15c-00.png)
+
+# 16 - Implement resource tagging
+
+
+
+# 17 - Create an Azure Policy
+
+# 18 - Explore the Trust Center
+
+# 19 - Use the Pricing Calculator
+
+# 20 - Use the Azure TCO Calculator
+
+# 21 - Calculate Composite SLAs
+
+# 22 - Open a Support Request
